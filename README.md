@@ -51,6 +51,11 @@ NEWS_API_KEY=your_newsapi_key
 python main.py
 ```
 
+## 🎯 Purpose
+
+This project was built while learning Python by following a tutorial. It helped me understand Python basics, conditional statements, random module, and game logic.
+
+
 ## 👨‍💻 Author
 
-Shiva Mirholiya
+**Shiva Mirholiya**
