@@ -7,10 +7,14 @@ from client import get_ai_response  # Importing Gemini function
 from gtts import gTTS
 import pygame
 import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+newsapi = os.getenv("NEWS_API_KEY")
 
 # Initialize speech engine
 engine = pyttsx3.init()
-newsapi = "65e898927e794335944887cd00c301c0"
 
 def speak_old(text):
     # print(f"Jarvis: {text}\n")
