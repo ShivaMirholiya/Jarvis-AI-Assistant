@@ -53,4 +53,4 @@ python main.py
 
 ## 👨‍💻 Author
 
-Shiva
+Shiva Mirholiya
